@@ -1,4 +1,5 @@
 import React from "react";
+import dress from "./dress.jpg";
 import "./styl.css";
 
 type ProductCounterPropsType = {
@@ -15,6 +16,7 @@ const ProductCounter: React.FC<ProductCounterPropsType> = (props) => {
 
   return (
     <div className="product_counter">
+      <img src={dress} className="product_dress" alt="" />
       <h1>{productName}</h1>
       <span>{count}</span>
     </div>

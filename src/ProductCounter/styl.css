@@ -1,4 +1,13 @@
 
 .product_counter {
-    margin-bottom: 50 px;;
+    margin-bottom: 50px;
+    display: flexbox;
+    border: 2px ;
+    background: rgb(136, 63, 63) ;
+    height: 300px;
+    width: 200px;
+}
+.product_dress {
+    height: 150px;
+    width: 180px;
 }
