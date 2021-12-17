@@ -3,11 +3,11 @@
     margin-bottom: 50px;
     display: flexbox;
     border: 2px ;
-    background: rgb(136, 63, 63) ;
-    height: 600px;
-    width: 200px;
+    background: #cad65b ;
+    height: 400px;
+    width: 150px;
 }
 .product_dress {
     height: 150px;
-    width: 180px;
+    width: 130px;
 }
